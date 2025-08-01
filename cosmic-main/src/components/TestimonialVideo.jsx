@@ -217,7 +217,7 @@ const TestimonialVideo = () => {
             viewport={{ once: true }}
             className="text-sm uppercase tracking-widest text-[#9fc22f] font-semibold mb-2"
           >
-            About Solex Energy Limited
+            About Cosmic Powertech
           </motion.p>
           <motion.h2
             initial={{ opacity: 0, y: -10 }}
@@ -277,9 +277,11 @@ const TestimonialVideo = () => {
                   viewport={{ once: true }}
                   className="space-y-4"
                 >
-                  <h3 className="text-2xl font-bold text-white font-space-grotesk">At Solex Energy Limited</h3>
+                  <h3 className="text-2xl font-bold text-white font-space-grotesk">At Cosmic Powertech</h3>
                   <p className="text-gray-300">
-                    We are dedicated to leading the renewable energy sector by harnessing the power of solar to build a greener world. Specializing in sustainable, cost-effective solutions for residential, commercial, and industrial clients, we combine innovation with advanced technologies to drive global zero-carbon development. As a trusted partner in clean energy, we are committed to paving the way for a sustainable future.
+                    At Cosmic Powertech, we don’t just install solar — we empower the future.
+Driven by a mission to accelerate the world’s transition to clean energy, we specialize in delivering smart, sustainable, and cost-efficient solar solutions across residential, commercial, and industrial sectors.
+Our expertise blends cutting-edge technology with proven performance, making us a trusted partner in the journey toward a zero-carbon tomorrow. From rooftop systems to large-scale projects, every solution we offer is designed to maximize savings, reduce emissions, and support long-term sustainability.sustainable future.
                   </p>
                 </motion.div>
               </div>
